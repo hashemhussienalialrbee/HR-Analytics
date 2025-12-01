@@ -28,7 +28,7 @@ It enables HR teams and management to monitor workforce distribution, identify t
 - **Departments Included:** Production, IT/IS, Sales, Software, Admin, Executive & more
 
 ## 📷 Dashboard Preview
-![HR Dashboard](HR Dashboard/HR_Analysis.png)
+![HR Dashboard](HR-Data-Analysis/HR-Analysis.png)
 
 
 ## 🔍 Key Insights
