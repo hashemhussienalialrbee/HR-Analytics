@@ -29,6 +29,8 @@ It enables HR teams and management to monitor workforce distribution, identify t
 
 ## 📷 Dashboard Preview
 ![HR Dashboard](HR_Analysis.png)
+![HR Dashboard](HR Dashboard/HR_Analysis.png)
+
 
 ## 🔍 Key Insights
 - Female employees represent **55.82%**, indicating a strong gender balance tilt.
